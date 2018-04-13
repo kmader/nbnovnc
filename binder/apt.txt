@@ -5,3 +5,4 @@ xfonts-base
 xvfb
 xterm
 openbox
+chromium-browser
